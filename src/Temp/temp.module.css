@@ -1,0 +1,47 @@
+body {
+  background: rgb(214, 211, 211);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.temp {
+  background: url("https://cdnb.artstation.com/p/assets/images/images/013/355/427/large/scott-richard-jungle-sunset-final-s.jpg?1539208929");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+  opacity: 0.9;
+  box-shadow: 3px 3px 30px black;
+  position: relative;
+}
+.tempCold,
+.tempNormal,
+.tempHot,
+.tempExtraHot {
+  background-color: rgb(51, 199, 199);
+  transition: background-color 1s;
+}
+.tempNormal {
+  background-color: greenyellow;
+}
+.tempHot {
+  background-color: orange;
+}
+.tempExtraHot {
+  background-color: red;
+}
+.searchCity {
+  width: 90%;
+  height: 50px;
+  margin: 0%;
+  color: white;
+  font-size: larger;
+  background: none;
+  top: 10%;
+  border: 1px solid whitesmoke;
+}
+.searchCity:focus {
+  outline: none;
+}
+
+/*  */
