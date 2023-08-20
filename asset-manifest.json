@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Temperature/static/css/main.85618ffb.css",
+    "main.js": "/Temperature/static/js/main.0d048bde.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Temperature/static/js/787.28cb0dcd.chunk.js",
+    "static/media/medium.jpg": "/Temperature/static/media/medium.d3f6954bc482a8f6025d.jpg",
+    "static/media/beach.jpg": "/Temperature/static/media/beach.a46b0a2835b33c351a27.jpg",
+    "static/media/london.jpg": "/Temperature/static/media/london.5d21d72412301a4be8ed.jpg",
+    "static/media/snow.jpg": "/Temperature/static/media/snow.01eca63cf134f576a664.jpg",
+    "static/media/desert.jpg": "/Temperature/static/media/desert.2bd09d0391bb7ed23877.jpg",
+    "static/media/logo.svg": "/Temperature/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Temperature/index.html",
+    "main.85618ffb.css.map": "/Temperature/static/css/main.85618ffb.css.map",
+    "main.0d048bde.js.map": "/Temperature/static/js/main.0d048bde.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Temperature/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85618ffb.css",
+    "static/js/main.0d048bde.js"
+  ]
+}
